@@ -1,1 +1,1 @@
-# Pair-badge
+This is a test.
